@@ -6,7 +6,7 @@
 
 
 ## FORMULA:
-BMI=weight(kg)/hight(m)<sup>2</sup>
+BMI=weight(kg)/height(m)<sup>2</sup>
 
 ## DESIGN STEPS:
 
